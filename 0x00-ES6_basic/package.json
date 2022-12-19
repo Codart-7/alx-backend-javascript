@@ -1,0 +1,22 @@
+{
+  "name": "alx-backend-project",
+  "version": "1.0.0",
+  "description": "This project introduces the basics of using JavaScript ES6",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.20.5",
+    "@babel/preset-env": "^7.20.2",
+    "babel-jest": "^29.3.1",
+    "eslint": "^8.30.0",
+    "jest": "^29.3.1",
+    "node-notifier": "^9.0.1"
+  }
+}
