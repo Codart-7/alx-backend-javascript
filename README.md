@@ -1,1 +1,1 @@
-# ALX Backend Engineering Specialization Course
+# ALX Backend Engineering: JavaScript Course
